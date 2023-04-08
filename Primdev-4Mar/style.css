@@ -1,0 +1,14 @@
+
+.tulisan{
+    color: red;
+    text-align: center;
+    font-size: 100px;
+    text-transform: capitalize;
+}
+
+.table{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: 25rem;
+}
